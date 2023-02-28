@@ -1,4 +1,6 @@
 # DS3231-SSD1963-FSMC-STM32-TFT-STM32F407
 DS3231 SSD1963 FSMC STM32 TFT STM32F407
 
+https://www.youtube.com/watch?v=oZfRA_vNEgY
+
 ![DS3231 SSD1963 FSMC STM32 TFT STM32F407](https://user-images.githubusercontent.com/31142397/222004554-fcf44a9b-9910-4aae-bfbc-4af9ab299af7.jpg)
